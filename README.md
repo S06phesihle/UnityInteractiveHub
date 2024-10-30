@@ -63,6 +63,74 @@ Step 3: Setting Up Your First VR Project
            Click “Create Project.”
 
    <img src ="https://europe1.discourse-cdn.com/unity/optimized/3X/1/7/1726346fdd5084eb66e1c321244e9823e2daeb8d_2_690x400.png">
+
+2. Import VR Packages
+   
+   Definition: Packages are collections of pre-built assets and scripts that enhance your project.
+   
+   Steps:
+   
+         Open your project in Unity.
+   
+         Go to the “Window” menu, then “Package Manager.”
+   
+         Search for and install the necessary VR SDKs (e.g., Oculus, SteamVR).
+   
+    <img src ="https://developer.tobii.com/xr/media/develop/unity/getting-started/package-manager-window.png">
+
+Step 4: Basic VR Scene Setup
+
+1. Set Up Your VR Camera
+   
+   Definition: The VR camera is the perspective from which the user experiences the virtual world.
+
+   Steps:
+   
+        In the Hierarchy, right-click and select “XR” (or “VRTK” depending on the SDK).
+   
+        Choose “XR Rig” or the equivalent for your SDK.
+
+     <img src ="https://gamedevacademy.org/wp-content/uploads/2021/02/img_6019323d9417a.png.webp">
+
+2. Add a Simple Environment
+
+   Definition: The environment is the 3D space where your VR experience takes place.
+
+   Steps:
+   
+         Right-click in the Hierarchy, select “3D Object,” and choose a simple shape (e.g., Cube, Sphere).
+   
+         Adjust the scale and position to fit your scene.
+   
+ <img src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD36IwejmlV1gsBu1l74CXOTif5rmhC5yAg9bjw-_cJXWBIfiRX3YEVgtkJ_QfCqwrNyyezUphDua20oLe0CANyUpVCJbRSPKY1e1wyU3OkCRowiOtVi1KQZQ2FpHC3rTugwI3_YuWtzU/s384/Add+cube.png">
+
+Step 5: Building Your VR Application
+
+1.Build Settings
+
+  Definition: Build Settings allow you to prepare your project for deployment on different platforms.
+
+  Steps:
+  
+        Got to "File" > "Build Settings"
+        
+        Choose your target platform (e.g., PC,Android) and click "Switch Platform"
+
+   <img src = "https://miro.medium.com/v2/resize:fit:1276/1*JCOBj0fz5QDae7IdWQetFA.png">
+
+2. Building the Application
+   
+   Definition: Building is the process of compiling your project into an executable format.
+
+   Steps:
+
+          In the Build Settings, click on "Build or Build and Run" and choose a location to save the executable
+
+   <img src ="https://gamedevacademy.org/wp-content/uploads/2019/08/img_5d649d103d778.png.webp">
+  
+
+
+   
    
 
     
