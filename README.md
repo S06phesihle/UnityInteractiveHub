@@ -62,7 +62,7 @@ Step 3: Setting Up Your First VR Project
    
            Click “Create Project.”
 
-   <img src ="https://europe1.discourse-cdn.com/unity/optimized/3X/1/7/1726346fdd5084eb66e1c321244e9823e2daeb8d_2_690x400.png">
+   <img src ="http://www.lancelarsen.com/wp-content/uploads/2022/01/image-42-1024x689.png">
 
 2. Import VR Packages
    
